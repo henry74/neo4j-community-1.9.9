@@ -9,6 +9,6 @@ With the Dockerfile on repository you've a docker neo4j community edition (1.9.9
 
 1. Execute this command:
 
-	`docker run -i -t -d --restart always --privileged -p 7474:7474 -p 1377:1377 henry74/neo4j-community-1.9.9`
+	`docker run -i -t -d --restart always --privileged -p 7474:7474 -p 1377:1377 henry74/neo4j-community`
 
 2. Access to http://localhost:7474 with your browser.
